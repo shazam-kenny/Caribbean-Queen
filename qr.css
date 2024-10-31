@@ -1,0 +1,33 @@
+nav ul{
+    list-style-type:circle;
+    margin:armenian;
+    padding:4px;
+    display:list-item;
+    justify-content:content;
+   align-items:first baseline;
+        }
+
+    body{
+        background-color: rgb(201, 251, 3);
+       color: rgb(205, 251, 0); 
+        text-align:left;
+        padding: 1rem;
+        border:3px solidblack;
+        border-radius: 10px;
+        margin: auto;
+        background-image: url(GT\ 2.png);
+        
+
+    }
+    button{
+        padding: 10px 20px;
+        color: aqua;
+    }
+    submit{
+        padding: 3px;
+        color: brown;
+        font-weight:bold;
+        margin: trim 3px;
+
+
+    }
